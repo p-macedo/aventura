@@ -30,4 +30,6 @@ main {
 
 img {
     max-width: 90%;
+    border: 2px;
+    border-radius:20px;
 }
